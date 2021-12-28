@@ -1,2 +1,2 @@
 # git-r-done
-first git proj
+first git project
